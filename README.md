@@ -1,10 +1,17 @@
 # Image-Classification-Is-it-Real-or-generated-by-AI-
-Setup :
+###Setup :
+
 git clone https://github.com//nouhabenhamada/Image-Classification-Is-it-Real-or-generated-by-AI.git
+
+
 cd Image-Classification-Is-it-Real-or-generated-by-AI
+
+
 pip install -r requirements.txt
 
-Run the Application:
+###Run the Application:
+
+
 streamlit run app.py
 
 
