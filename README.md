@@ -14,6 +14,8 @@ pip install -r requirements.txt
 ```
 ### Run the Application:
 
+Run the notebook to save the model, then run streamlit.
+
 ```bash
 streamlit run app.py
 ```
