@@ -1,6 +1,6 @@
 # Image-Classification-Is-it-Real-or-generated-by-AI-
 
-This project is an application developed with Streamlit to distinguish between AI-generated and real images. Utilizing the TensorFlow framework, the core model is based on EfficientNetB0, which has been fine-tuned on a custom dataset containing both fake and real images. The application allows users to upload images, which are then preprocessed and fed into the model to predict whether the image is AI-generated or real. The results provide a user-friendly interface for verifying digital image authenticity.
+#### This project is an application developed with Streamlit to distinguish between AI-generated and real images. Utilizing the TensorFlow framework, the core model is based on EfficientNetB0, which has been fine-tuned on a custom dataset containing both fake and real images. The application allows users to upload images, which are then preprocessed and fed into the model to predict whether the image is AI-generated or real. The results provide a user-friendly interface for verifying digital image authenticity.
 
 ### Setup :
 ```bash
